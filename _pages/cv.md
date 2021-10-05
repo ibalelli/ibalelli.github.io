@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf of my CV can be downloaded [here](http://irenebalelli.github.io/files/cv/Balelli_CV.pdf) (or french version [here](http://irenebalelli.github.io/files/cv/Balelli_CV_fr.pdf))
+A pdf of my CV can be downloaded [here](http://ibalelli.github.io/files/cv/Balelli_CV.pdf) (or french version [here](http://ibalelli.github.io/files/cv/Balelli_CV_fr.pdf))
 
 Education
 ======
