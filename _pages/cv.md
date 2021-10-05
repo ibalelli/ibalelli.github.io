@@ -9,32 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+A pdf of my CV can be downloaded [here](http://irenebalelli.github.io/files/cv/Balelli_CV.pdf) (or french version [here](http://irenebalelli.github.io/files/cv/Balelli_CV_fr.pdf))
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Università di Bologna, Bologna, Italy, 2010
+* M.S. in Mathematics Applied to Biology and Medicine, Université Paris 6, Paris, France, 2013
+* Ph.D in Applied Mathematics with teaching activities, LAGA - Université Paris 13, Sorbonne Paris Cité, Villetaneuse, France, 2016
+
+Current position
+======
+* Research scientist (ISFP) in mathematical modeling for computational biomedicine, EPIONE team, Centre Inria d’Université Côte d’Azur, Valbonne, France.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020–2021: Post-doctoral research fellowship in federated statistical learning for new generation meta-analyses
+of large-scale and secured biomedical data, EPIONE team, Inria Sophia Antipolis Méditerranée, Valbonne, France.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017–2019: Post-doctoral research fellowship in modeling of the immune response to Ebola vaccine, SISTM team, Inserm U1219 Bordeaux Population Health, Bordeaux, France.
 
 Publications
 ======
@@ -48,12 +40,40 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Computer Skills
+======
+* Operating systems:
+  * Mac 0SX
+  * Linux
+  * Windows
+* Programming languages:
+  * Python
+  * Matlab
+  * R
+* Numerical simulations:
+  * Stochastic processes
+  * Monte Carlo methods
+  * ODE system (simulation, sensitivity analysis)
+* Parameter estimation softwares:
+  * Monolix
+  * NIMROD
+* Editing & Office:
+  * OpenOffice
+  * Office
+  * LATEX 
+* Others:
+  * IdentifiabilityAnalysis (Mathematica)
+  * DAISY (Reduce3.8)
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Languages
 ======
-* Currently signed in to 43 different slack teams
+* Italian (Mother tongue)
+* French (Bilingual)
+* English (Fluent)
+* Spanish (Bilingual)
