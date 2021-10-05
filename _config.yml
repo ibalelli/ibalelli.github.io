@@ -11,9 +11,9 @@ title                    : "Irene Balelli, Ph.D."
 title_separator          : "-"
 name                     : &name "Irene Balelli"
 description              : &description "Tenured research scientist in mathematical and statistical modeling for biomedical sciences"
-url                      : https://irenebalelli.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ibalelli.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ibalelli/irenebalelli.github.io"
+repository               : "ibalelli/ibalelli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
