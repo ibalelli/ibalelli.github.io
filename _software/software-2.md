@@ -1,5 +1,5 @@
 ---
-title: "Fed-mv_PPCA"
+title: "Fed-mv-PPCA"
 excerpt: "A Bayesian framework for assimilation of federated multi-view heterogeneous datasets based on Probabilistic PCA"
 collection: software
 ---

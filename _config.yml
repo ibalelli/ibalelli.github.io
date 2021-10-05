@@ -11,9 +11,9 @@ title                    : "Irene Balelli, Ph.D."
 title_separator          : "-"
 name                     : &name "Irene Balelli"
 description              : &description "Tenured research scientist in mathematical and statistical modeling for biomedical sciences"
-url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://irenebalelli.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ibalelli/irenebalelli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -185,7 +185,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
+  software:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -235,6 +238,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _software
+  - scope:
+      path: ""
+      type: software
     values:
       layout: single
       author_profile: true
