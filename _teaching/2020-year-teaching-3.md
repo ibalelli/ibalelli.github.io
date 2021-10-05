@@ -12,8 +12,8 @@ Lectures and tutorials sessions concerning compartimental models in epidemiology
 
 Session 1
 ======
-The slides are available [here](http://irenebalelli.github.io/files/course_material/comp_models/Slides_cours_comp_model1.pdf) <br/>
-The material for tutorial part is available [here](http://irenebalelli.github.io/files/course_material/comp_models/TD1.zip)
+The slides are available [here](http://ibalelli.github.io/files/course_material/comp_models/Slides_cours_comp_model1.pdf) <br/>
+The material for tutorial part is available [here](http://ibalelli.github.io/files/course_material/comp_models/TD1.zip)
 
 Session 2
 ======
