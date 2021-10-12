@@ -13,7 +13,7 @@ Lectures and tutorials sessions concerning compartimental models in epidemiology
 Session 1
 ======
 The slides are available [here](http://ibalelli.github.io/files/course_material/comp_models/Slides_cours_comp_model1.pdf) <br/>
-The material for tutorial part is available [here](http://ibalelli.github.io/files/course_material/comp_models/TD1.zip)
+The material for tutorial part is available [here](http://ibalelli.github.io/files/course_material/comp_models/TD1.zip) <br/>
 The corrected notebook of session 1 is available [here](http://ibalelli.github.io/files/course_material/comp_models/TD1_M2_modeling_epidemio_solutions.ipynb)
 
 Session 2
