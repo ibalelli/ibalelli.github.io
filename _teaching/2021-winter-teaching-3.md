@@ -2,7 +2,7 @@
 title: "AI4Health Winter School"
 collection: teaching
 type: "Master and PhD course"
-permalink: /teaching/2021-winter-teaching-4
+permalink: /teaching/2021-winter-teaching-3
 venue: "Health Data Hub"
 date: 2021-01-01
 location: "Online sessions"

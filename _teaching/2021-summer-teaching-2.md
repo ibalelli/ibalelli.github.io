@@ -2,7 +2,7 @@
 title: "INRIA-DFKI European Summer School"
 collection: teaching
 type: "Master and PhD course"
-permalink: /teaching/2021-summer-teaching-5
+permalink: /teaching/2021-summer-teaching-2
 venue: "DFKI and INRIA"
 date: 2021-01-01
 location: "Online sessions"

@@ -1,0 +1,16 @@
+DESCRIPTION: Ab dynamics after heterologous vaccination, two populations of B cells
+
+[LONGITUDINAL]
+
+input = {phiS,deltaS,phiL,deltaL,deltaA,INITAB}
+INITAB = {use=regressor}
+
+EQUATION:
+
+
+A=(INITAB-phiS/(deltaA-deltaS)-phiL/(deltaA-deltaL))*exp(-deltaA*t)+phiS/(deltaA-deltaS)*exp(-deltaS*t)+phiL/(deltaA-deltaL)*exp(-deltaL*t)
+
+Ab=log(A)/log(10)
+
+OUTPUT:
+output = Ab

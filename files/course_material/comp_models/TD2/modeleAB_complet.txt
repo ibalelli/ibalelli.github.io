@@ -1,0 +1,33 @@
+DESCRIPTION: Ab dynamics after heterologous vaccination, two populations of B cells
+
+
+
+[LONGITUDINAL]
+
+input = {phiS,deltaS,phiL,deltaL,deltaA,INITAB}
+
+INITAB = {use=regressor}
+
+
+
+EQUATION:
+
+odeType = stiff	
+
+
+t0 = 0  ; t0 is a reserved keyword (initiation of therapy)
+
+Ab_0 = INITAB
+
+ddt_Ab = phiS*exp(-deltaS*t)+ phiL*exp(-deltaL*t)-deltaA*Ab
+
+if (t>0)
+ A=log(Ab)/log(10)
+else
+ A=log(INITAB)/log(10)
+end
+
+OUTPUT:
+
+output = A
+
