@@ -1,6 +1,6 @@
 ---
 title: "Fed-BioMed"
-excerpt: "An open-source federated learning framework 1<br/><img src='/images/fedbiomed_logo.png' width='100px'>"
+excerpt: "An open-source federated learning framework <br/><img src='/images/fedbiomed_logo.png' width='100px'>"
 collection: software
 ---
 
