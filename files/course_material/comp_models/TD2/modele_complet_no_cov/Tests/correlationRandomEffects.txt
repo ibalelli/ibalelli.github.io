@@ -1,0 +1,11 @@
+eta1,eta2,coeff,statistics,p-value
+eta_phiS,eta_deltaS,0,-0.126031,0.899835
+eta_phiS,eta_phiL,0,1.44371,0.150394
+eta_phiS,eta_deltaL,0,-0.666388,0.505935
+eta_phiS,eta_deltaA,0,-1.23915,0.21675
+eta_deltaS,eta_phiL,0,0.230978,0.817569
+eta_deltaS,eta_deltaL,0,0.981718,0.327431
+eta_deltaS,eta_deltaA,0,2.37686,0.0184087
+eta_phiL,eta_deltaL,0,-0.451575,0.652067
+eta_phiL,eta_deltaA,0,1.58781,0.113917
+eta_deltaL,eta_deltaA,0,1.76445,0.0791905

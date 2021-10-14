@@ -1,0 +1,114 @@
+********************************************************************************
+*                        modele_complet_no_cov.mlxtran                         *
+*                        October 13, 2021 at 16:22:15                          *
+*                        Monolix version : 5.1.1                               *
+********************************************************************************
+
+
+POPULATION PARAMETERS ESTIMATION _______________________________________________
+
+Fixed Effects ----------------------------     se_sa    rse(%)
+phiS_pop                       :      1.07    0.0215      2.01
+deltaS_pop                     :    0.0595   0.00229      3.85
+phiL_pop                       :     0.558   0.00894       1.6
+beta_phiL_GROUP_1              :    -0.799     0.023      2.88
+deltaL_pop                     :    6.8e-5   3.11e-5      45.7
+deltaA_pop                     :     0.858    0.0147      1.71
+
+Standard Deviation of the Random Effects -
+omega_phiS                     :     0.159    0.0174      10.9
+omega_deltaS                   :     0.496    0.0292      5.88
+omega_phiL                     :    0.0628    0.0134      21.3
+omega_deltaL                   :      1.49     0.259      17.4
+omega_deltaA                   :     0.192    0.0115      5.99
+
+Error Model Parameters -------------------
+a                              :    0.0368   0.00066      1.79
+
+Elapsed time (seconds) :   4.3e+2
+CPU time     (seconds) :   1.3e+3
+
+ _______________________________________________________________________________
+
+
+
+CORRELATION MATRIX OF THE ESTIMATES ____________________________________________
+
+
+Fisher by Stochastic Approximation ---------------------------------------------
+Correlation Matrix :
+         phiS_pop         1
+       deltaS_pop  0.056422         1
+         phiL_pop   0.30325   0.17476         1
+beta_phiL_GROUP_1 -0.013973-0.0091703  -0.58971         1
+       deltaL_pop -0.063818 -0.055397  0.094286  -0.21312         1
+       deltaA_pop   0.43248 -0.030355   0.26235 -0.026245 -0.020547         1
+       omega_phiS -0.078652 -0.028389 -0.069394  0.058866 -0.068295  0.021757         1
+     omega_deltaS  0.049083  0.040974  0.093965 -0.078053  0.047613-0.0017395 -0.057683         1
+       omega_phiL  -0.18203 -0.059296  -0.23477 -0.059506 -0.026912  -0.13893-0.0046572 -0.068168         1
+     omega_deltaL -0.035481  0.019462  0.036937   0.11509  -0.28125 -0.031563  -0.11664  0.014543  -0.05894         1
+     omega_deltaA -0.016876 0.0084432   0.01233-0.0040716 0.0072628 -0.027135  -0.20113-0.0047188-0.0050036  0.056838         1
+                a  0.020412-0.0066213   0.01422  0.026088 0.0011845  0.024329 -0.016268 -0.028032 -0.018952  0.019979 0.0024928         1
+                               min       max   max/min
+Eigen values           :      0.28         2       7.2
+
+Elapsed time (seconds) :     6.7
+CPU time     (seconds) :       7
+
+ -------------------------------------------------------------------------------
+
+ _______________________________________________________________________________
+
+
+
+INDIVIDUAL PARAMETERS ESTIMATION _______________________________________________
+
+
+Individual Parameters Estimation by Conditional Mean ---------------------------
+               min        Q1    median        Q3       max
+phiS   :     0.883      1.01      1.08      1.14      1.47
+deltaS :    0.0168    0.0421    0.0648    0.0836      0.18
+phiL   :     0.239     0.252     0.391      0.56     0.581
+deltaL :   8.63e-5  0.000154  0.000182  0.000222  0.000608
+deltaA :     0.549     0.765     0.854     0.978      1.29
+
+Elapsed time (seconds) :      93
+CPU time     (seconds) :  2.4e+2
+
+ -------------------------------------------------------------------------------
+
+
+Individual Parameters Estimation by Conditional Mode ---------------------------
+               min        Q1    median        Q3       max
+phiS   :     0.866      1.01      1.07      1.14      1.47
+deltaS :    0.0168    0.0411    0.0617    0.0838     0.174
+phiL   :     0.238     0.251     0.393     0.558     0.579
+deltaL :   6.32e-5   6.71e-5   6.77e-5   6.88e-5   7.49e-5
+deltaA :     0.542      0.76     0.858     0.973      1.28
+
+Elapsed time (seconds) :      37
+CPU time     (seconds) :      55
+
+ -------------------------------------------------------------------------------
+
+ _______________________________________________________________________________
+
+
+
+LOG-LIKELIHOOD ESTIMATION ______________________________________________________
+                                                            (is)
+
+-2 x log-likelihood                             :       -6152.61
+Akaike Information Criteria               (AIC) :       -6128.61
+Corrected Bayesian Information Criteria  (BICc) :       -6075.22
+Bayesian Information Criteria             (BIC) :       -6089.03
+
+Elapsed time                          (seconds) :         443.34
+CPU time                              (seconds) :        1436.00
+
+
+[Importance Sampling] Standard error        : 0.562
+                      Sampling distribution : T-distribution with 5 degrees of freedom
+
+ _______________________________________________________________________________
+

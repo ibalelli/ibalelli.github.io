@@ -1,0 +1,4 @@
+parameter,covariate,statistics,p-value,test
+deltaS,GROUP,35.7048,1.05071e-8,Fisher
+phiL,GROUP,10446.5,<2.2e-16,Fisher
+deltaL,GROUP,2146.4,<2.2e-16,Fisher

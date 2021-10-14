@@ -1,0 +1,6 @@
+parameter,statistics,p-value,test
+phiS,0.996132,0.965302,Shapiro-Wilk
+deltaS,0.0427796,0.999947,Kolmogorov-Smirnov
+phiL,0.0374685,0.999979,Kolmogorov-Smirnov
+deltaL,0.0410584,0.997849,Kolmogorov-Smirnov
+deltaA,0.992352,0.167712,Shapiro-Wilk
