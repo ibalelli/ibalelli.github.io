@@ -2,7 +2,7 @@
 title: "Modeling of Biological Systems"
 collection: teaching
 type: "2nd year Master degree course"
-permalink: /teaching/2021-year-teaching-5
+permalink: /teaching/2021-year-teaching-7
 venue: "Université Côte d'Azur, Master BIM"
 date: 2021-01-01
 location: "Nice, France"
