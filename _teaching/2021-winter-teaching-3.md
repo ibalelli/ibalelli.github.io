@@ -1,5 +1,5 @@
 ---
-title: "AI4Health Winter School"
+title: "AI4Health Winter School 2021"
 collection: teaching
 type: "Master and PhD course"
 permalink: /teaching/2021-winter-teaching-3
