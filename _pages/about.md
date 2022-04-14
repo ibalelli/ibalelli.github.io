@@ -16,6 +16,10 @@ I am currently involved in the following projects:
 - [SimCardioTest](https://www.simcardiotest.eu/wordpress/): leading the workpackage dedicated to in-silico trials and data science
 - [Fed-BioMed](https://fedbiomed.gitlabpages.inria.fr/): contributing to the development of an open-source federated learning framework
 
+Open positions
+======
+- PhD position on [Optimizing sequential treatment in head and neck squamous cell carcinoma (HNSCC): artificial intelligence based on real-life patient data to support medical decision-making](https://jobs.inria.fr/public/classic/fr/offres/2022-04810), co-directed with Dr S. Benzekry (Inria-Inserm [COMPO](https://team.inria.fr/compo/) Team, Marseille) and Pr A. Varoquaux (radiologist at [AP-HM](http://fr.ap-hm.fr/), Marseille)
+
 Overview on my academic career
 ======
 I received my Ph.D. from [Université Paris 13, Sorbonne Paris Cité](https://www.univ-paris13.fr/presentation/) in 2016, under the supervision of Vuk Milisic, Gilles Wainrib and Hatem Zaag. The title of my dissertation was <i>Mathematical foundations of antibody affinity maturation</i>. I have developed and studied a mathematical framework based on graphs, to model antibody affinity maturation of B-cells. I have investigated interactions between mutation, division and selection mecanisms, using probabilistic tools and numerical simulations. My Ph.D. project was embedded in the frame of [Labex Inflamex](http://inflamex.fr/).
