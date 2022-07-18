@@ -18,7 +18,9 @@ I am currently involved in the following projects:
 
 Open positions
 ======
-#- PhD position on [Optimizing sequential treatment in head and neck squamous cell carcinoma (HNSCC): artificial intelligence based on real-life patient data to support medical decision-making](https://jobs.inria.fr/public/classic/fr/offres/2022-04810), co-directed with Dr S. Benzekry (Inria-Inserm [COMPO](https://team.inria.fr/compo/) Team, Marseille) and Pr A. Varoquaux (radiologist at [AP-HM](http://fr.ap-hm.fr/), Marseille)
+<!---
+- PhD position on [Optimizing sequential treatment in head and neck squamous cell carcinoma (HNSCC): artificial intelligence based on real-life patient data to support medical decision-making](https://jobs.inria.fr/public/classic/fr/offres/2022-04810), co-directed with Dr S. Benzekry (Inria-Inserm [COMPO](https://team.inria.fr/compo/) Team, Marseille) and Pr A. Varoquaux (radiologist at [AP-HM](http://fr.ap-hm.fr/), Marseille)
+-->
 - PostDoctoral position on [Causal data analysis of in-silico trials](http://ibalelli.github.io/files/job_offers/Job_offer_post_doc_SimCardioTest.pdf). Please, send your application [here](https://recrutement.inria.fr/public/classic/fr/offres/2022-05241)
 
 
