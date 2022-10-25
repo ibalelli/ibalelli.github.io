@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "Nice, France"
 ---
 
-Lectures and tutorials sessions concerning compartimental models in epidemiology for 2nd year Master degree course in Modeling of Biological Systems by providing.
+Lectures and tutorials sessions concerning compartimental models in epidemiology for 2nd year Master degree course in Modeling of Biological Systems.
 
 Session 1
 ======
