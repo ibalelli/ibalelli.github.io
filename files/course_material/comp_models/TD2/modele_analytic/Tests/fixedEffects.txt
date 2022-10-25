@@ -1,4 +1,0 @@
-parameter,statistics(sa),p-value(sa)
-beta_deltaS_GROUP_1,4.99985,5.74e-7
-beta_phiL_GROUP_1,19.385,<2.2e-16
-beta_deltaL_GROUP_1,8.19608,2.22e-16

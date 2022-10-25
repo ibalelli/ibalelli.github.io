@@ -1,6 +1,0 @@
-eta,covariate,statistics,p-value,test
-eta_phiS,GROUP,0.643222,0.423508,Fisher
-eta_deltaS,GROUP,0.00220514,0.962593,Fisher
-eta_phiL,GROUP,0.200036,0.655181,Fisher
-eta_deltaL,GROUP,0.062149,0.803389,Fisher
-eta_deltaA,GROUP,2.3472,0.127104,Fisher

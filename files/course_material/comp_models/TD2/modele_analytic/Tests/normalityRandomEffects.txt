@@ -1,6 +1,0 @@
-eta,statistics,p-value
-eta_phiS,0.996132,0.965302
-eta_deltaS,0.990161,0.158894
-eta_phiL,0.991803,0.403284
-eta_deltaL,0.994264,0.766963
-eta_deltaA,0.992352,0.167712

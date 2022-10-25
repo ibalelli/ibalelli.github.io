@@ -1,2 +1,0 @@
-parameter,covariate,statistics,p-value,test
-phiL,GROUP,23050.2,<2.2e-16,Fisher

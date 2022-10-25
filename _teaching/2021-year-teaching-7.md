@@ -18,9 +18,10 @@ The corrected notebook of session 1 is available [here](http://ibalelli.github.i
 
 Session 2
 ======
-To come...
 <!---
+To come...
+-->
 The slides are available [here](http://ibalelli.github.io/files/course_material/comp_models/Slides_cours_comp_model2.pdf) <br/>
 The material for tutorial part is available [here](http://ibalelli.github.io/files/course_material/comp_models/TD2.zip)
--->
+
 

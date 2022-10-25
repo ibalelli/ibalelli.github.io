@@ -1,2 +1,0 @@
-parameter,statistics(sa),p-value(sa)
-beta_phiL_GROUP_1,34.7634,<2.2e-16
