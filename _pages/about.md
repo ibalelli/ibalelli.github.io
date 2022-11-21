@@ -18,16 +18,16 @@ I am currently involved in the following projects:
 
 Open positions
 ======
-No ongoing open positions
+- Master 2 internship on [Identification and quantification of explanatory variables effects on latent NODE-based trajectories](http://ibalelli.github.io/files/job_offers/Internship_proposal_Deep_Mixed_Effect.pdf).
 <!---
+No ongoing open positions
 - PhD position on [Optimizing sequential treatment in head and neck squamous cell carcinoma (HNSCC): artificial intelligence based on real-life patient data to support medical decision-making](https://jobs.inria.fr/public/classic/fr/offres/2022-04810), co-directed with Dr S. Benzekry (Inria-Inserm [COMPO](https://team.inria.fr/compo/) Team, Marseille) and Pr A. Varoquaux (radiologist at [AP-HM](http://fr.ap-hm.fr/), Marseille)
 - PostDoctoral position on [Causal data analysis of in-silico trials](http://ibalelli.github.io/files/job_offers/Job_offer_post_doc_SimCardioTest.pdf). Please, send your application [here](https://recrutement.inria.fr/public/classic/fr/offres/2022-05241)
 -->
 
-
 Overview on my academic career
 ======
-I received my Ph.D. from [Université Paris 13, Sorbonne Paris Cité](https://www.univ-paris13.fr/presentation/) in 2016, under the supervision of Vuk Milisic, Gilles Wainrib and Hatem Zaag. The title of my dissertation was <i>Mathematical foundations of antibody affinity maturation</i>. I have developed and studied a mathematical framework based on graphs, to model antibody affinity maturation of B-cells. I have investigated interactions between mutation, division and selection mecanisms, using probabilistic tools and numerical simulations. My Ph.D. project was embedded in the frame of [Labex Inflamex](http://inflamex.fr/).
+I received my Ph.D. from [Université Paris 13, Sorbonne Paris Cité](https://www.univ-paris13.fr/presentation/) in 2016, under the supervision of Vuk Milisic, Gilles Wainrib and Hatem Zaag. The title of my dissertation was <i>Mathematical foundations of antibody affinity maturation</i>. I have developed and studied a mathematical framework based on graphs, to model antibody affinity maturation of B-cells. I have investigated interactions between mutation, division and selection mecanisms, using probabilistic tools and numerical simulations. My Ph.D. project was embedded in the frame of [Labex Inflamex](http://inflamex.fr/).
 
 In January 2017 I have joined the [SISTM](https://www.bordeaux-population-health.center/en/teams/statistics-in-systems-biology-and-translationnal-medicine-sistm/) team (INSERM U1219 Bordeaux Population Health and INRIA) as a postdoc. As part of the EBOVAC1 and EBOVAC2 European consortia, I focused on the mechanistic modeling of the immune response to a prime-boost vaccination strategy against Ebola virus, developed by Janssen (a Johnson&Johnson company). 
 
