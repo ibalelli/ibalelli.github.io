@@ -16,12 +16,17 @@ I am currently involved in the following projects:
 - [SimCardioTest](https://www.simcardiotest.eu/wordpress/): leading the workpackage dedicated to in-silico trials and data science
 - [Fed-BioMed](https://fedbiomed.gitlabpages.inria.fr/): contributing to the development of an open-source federated learning framework
 
+Students
+======
+- [Safaa Al Ali](https://www.linkedin.com/in/safaa-al-ali-b0595262/?originalSubdomain=fr), Post Doc (since Oct. 2022): Causal data analysis of in-silico trials, within the SimCardioTest project
+- Erwan Gaymard, industrial PhD with [ExactCure](https://www.exactcure.com/?lang=fr) (since Dec. 2022): Innovative mathematical methodologies in pharmacometric meta-modeling from highly heterogeneous sources
+- [Bhargav Ramudu Manam](https://www.linkedin.com/in/bhargavmanam/?originalSubdomain=fr), M2 internship (since Apr. 2023): Identification and quantification of explanatory variables effects on latent NODE-based trajectories
+
 Open positions
 ======
-- Master 2 internship on [Identification and quantification of explanatory variables effects on latent NODE-based trajectories](http://ibalelli.github.io/files/job_offers/Internship_proposal_Deep_Mixed_Effect.pdf).
-
-<!---
 No ongoing open positions
+<!---
+- Master 2 internship on [Identification and quantification of explanatory variables effects on latent NODE-based trajectories](http://ibalelli.github.io/files/job_offers/Internship_proposal_Deep_Mixed_Effect.pdf).
 - PhD position on [Optimizing sequential treatment in head and neck squamous cell carcinoma (HNSCC): artificial intelligence based on real-life patient data to support medical decision-making](https://jobs.inria.fr/public/classic/fr/offres/2022-04810), co-directed with Dr S. Benzekry (Inria-Inserm [COMPO](https://team.inria.fr/compo/) Team, Marseille) and Pr A. Varoquaux (radiologist at [AP-HM](http://fr.ap-hm.fr/), Marseille)
 - PostDoctoral position on [Causal data analysis of in-silico trials](http://ibalelli.github.io/files/job_offers/Job_offer_post_doc_SimCardioTest.pdf). Please, send your application [here](https://recrutement.inria.fr/public/classic/fr/offres/2022-05241)
 -->
