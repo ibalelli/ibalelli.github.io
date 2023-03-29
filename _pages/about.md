@@ -25,6 +25,7 @@ Students
 Open positions
 ======
 No ongoing open positions
+
 <!---
 - Master 2 internship on [Identification and quantification of explanatory variables effects on latent NODE-based trajectories](http://ibalelli.github.io/files/job_offers/Internship_proposal_Deep_Mixed_Effect.pdf).
 - PhD position on [Optimizing sequential treatment in head and neck squamous cell carcinoma (HNSCC): artificial intelligence based on real-life patient data to support medical decision-making](https://jobs.inria.fr/public/classic/fr/offres/2022-04810), co-directed with Dr S. Benzekry (Inria-Inserm [COMPO](https://team.inria.fr/compo/) Team, Marseille) and Pr A. Varoquaux (radiologist at [AP-HM](http://fr.ap-hm.fr/), Marseille)
