@@ -1,7 +1,7 @@
 ---
 title: "Modélisation statistique avancée"
 collection: teaching
-type: "Undergraduate course"
+type: "3rd year Bachelors degree course"
 permalink: /teaching/2023-year-teaching-1
 venue: "IUT Nice Côte d’Azur, BUT Science des Donne, S5"
 date: 2023-12-01
