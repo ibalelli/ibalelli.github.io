@@ -46,5 +46,9 @@ Lesson 6
 ======
 [TP4_Regression_partie2.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP4_Regression_partie2.ipynb) <br/>
 
+Exam 2
+======
+[Correction](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_2_corr.ipynb) <br/>
+
 <!---
 -->
