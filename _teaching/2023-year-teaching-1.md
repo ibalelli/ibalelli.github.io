@@ -49,6 +49,7 @@ Lesson 6
 Exam 2
 ======
 [Correction](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_2_corr.ipynb) <br/>
+[Notes](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_2.pdf) <br/>
 
 <!---
 -->
