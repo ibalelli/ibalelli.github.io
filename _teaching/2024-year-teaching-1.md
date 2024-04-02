@@ -26,10 +26,11 @@ Cours description
 [Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Diapo_project.pdf) <br/>
 -->
 
-Data (training and test set)
+Data (training and test sets)
 ======
+<!---
 [Data (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP1_Histogramme_partie1.ipynb) <br/>
-
+-->
 
 
 <!---
