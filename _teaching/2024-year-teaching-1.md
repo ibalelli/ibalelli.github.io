@@ -19,9 +19,9 @@ Cours description
 * Objectives will be progressively set, every 2 sessions each group will have to provide me with the progress of their work (in the form of a notebook).
 
 **Evaluation:**
-*Continuous assessment (1/5):* Progressive work progress.
-*Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 13/06 (at the end of the session).
-*Oral exam (2/5):* 17/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute QR.
+* *Continuous assessment (1/5):* Progressive work progress.
+* *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 13/06 (at the end of the session).
+* *Oral exam (2/5):* 17/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
 <!---
 [Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Diapo_project.pdf) <br/>
 -->
