@@ -8,7 +8,7 @@ date: 2024-04-01
 location: "Sophia Antipolis, France"
 ---
 
-Project on statistical modeling for complex dara and big data, for 3rd year BUT students.
+Project on statistical modeling for complex data and big data, for 3rd year BUT students.
 
 Cours description
 ======
