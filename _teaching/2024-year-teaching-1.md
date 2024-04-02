@@ -8,6 +8,8 @@ date: 2024-04-01
 location: "Sophia Antipolis, France"
 ---
 
+Project on statistical modeling for complex dara and big data, for 3rd year BUT students.
+
 Cours description
 ======
 **Objective:** Statistical modeling based on a given dataset, following all the steps required to understand its variables, process them and model them for a given objective. 
