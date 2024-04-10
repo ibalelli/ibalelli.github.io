@@ -38,4 +38,17 @@ Data (training and test sets)
 -->
 
 <!---
+1st Step: data analysis and preparation
+======
+
+* Dataset size and type. Are there any missing data? If so, we will eliminate them (for now).
+
+* How many classes and elements/class?
+
+* Selection of the most significant variables: explore and suggest several methods. Are there any collinearities? Which variables will you retain? How are the selected variables distributed?
+
+* Pay particular attention to the graphic visualization of your results.
+-->
+
+<!---
 -->
