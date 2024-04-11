@@ -28,14 +28,12 @@ Cours description
 
 Data (training and test sets)
 ======
-<!---
 [Data G1 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G1.zip) <br/>
 [Data G2 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G2.zip) <br/>
 [Data G3 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G3.zip) <br/>
 [Data G4 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G4.zip) <br/>
 [Data G5 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G5.zip) <br/>
 [Data G6 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G6.zip) <br/>
--->
 
 <!---
 1st Step: data analysis and preparation
