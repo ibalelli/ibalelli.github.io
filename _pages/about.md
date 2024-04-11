@@ -18,9 +18,8 @@ I am currently involved in the following projects:
 
 Students
 ======
+- [Wassila Khatir](https://www.linkedin.com/in/wassila-khatir-553b291b3/?originalSubdomain=fr), Ph.D. (since Feb. 2024): Integromics analysis: a new angle on the pathophysiology of X-Fragile Syndrome (Inria-IPMC collaboration)
 - [Safaa Al Ali](https://www.linkedin.com/in/safaa-al-ali-b0595262/?originalSubdomain=fr), Post Doc (since Oct. 2022): Causal data analysis of in-silico trials, within the SimCardioTest project
-- Erwan Gaymard, industrial PhD with [ExactCure](https://www.exactcure.com/?lang=fr) (since Dec. 2022): Innovative mathematical methodologies in pharmacometric meta-modeling from highly heterogeneous sources
-- [Bhargav Ramudu Manam](https://www.linkedin.com/in/bhargavmanam/?originalSubdomain=fr), M2 internship (since Apr. 2023): Identification and quantification of explanatory variables effects on latent NODE-based trajectories
 
 Open positions
 ======
@@ -44,3 +43,8 @@ Previous projects
 ======
 I have actively participated to the following project:
 - [Ebovac](https://www.ebovac.org/): involved in the workpackages dedicated to within-host mechanistic modeling
+
+Former students
+======
+- [Bhargav Ramudu Manam](https://www.linkedin.com/in/bhargavmanam/?originalSubdomain=fr), M2 internship (Apr. 2023 - Sept. 2023): Identification and quantification of explanatory variables effects on latent NODE-based trajectories
+- [Andrea Senacheribbe](https://www.linkedin.com/in/andrea-senacheribbe/?originalSubdomain=it), M2 internship (Sept. 2020 - Feb. 2021): Extension of multi-views PCA to time series data 
