@@ -22,9 +22,15 @@ Cours description
 * *Continuous assessment (1/5):* Progressive work progress.
 * *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 13/06 (at the end of the session).
 * *Oral exam (2/5):* 17/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
-<!---
-[Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Diapo_project.pdf) <br/>
--->
+
+Groups (Randomly defined)
+======
+* *G1* CROMBET, NIASSY
+* *G2* FALAIS, EZ-ZEROUALI
+* *G3* VIAUD, CARTON
+* *G4* VIGLIETTI, HIRSINGER
+* *G5* GOURAR, DIALLO
+* *G6* JOUNDI, LOFTI, NOUIRA
 
 Data (training and test sets)
 ======
@@ -35,7 +41,6 @@ Data (training and test sets)
 [Data G5 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G5.zip) <br/>
 [Data G6 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G6.zip) <br/>
 
-<!---
 1st Step: data analysis and preparation
 ======
 
@@ -46,7 +51,6 @@ Data (training and test sets)
 * Selection of the most significant variables: explore and suggest several methods. Are there any collinearities? Which variables will you retain? How are the selected variables distributed?
 
 * Pay particular attention to the graphic visualization of your results.
--->
 
 <!---
 -->
