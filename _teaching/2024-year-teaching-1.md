@@ -16,10 +16,10 @@ Cours description
 
 **Method:** 
 * Individual work, in groups of 2 or 3 students (chosen at random), using Python.
-* Objectives will be progressively set, every 2 sessions each group will have to provide me with the progress of their work (in the form of a notebook).
+* Objectives will be progressively set, every 2 sessions each group will have to provide the progress of their work (in the form of a notebook).
 
 **Evaluation:**
-* *Continuous assessment (1/5):* Progressive work progress.
+* *Continuous assessment (1/5):* Work progress.
 * *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 13/06 (at the end of the session).
 * *Oral exam (2/5):* 17/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
 
@@ -51,6 +51,28 @@ Data (training and test sets)
 * Selection of the most significant variables: explore and suggest several methods. Are there any collinearities? Which variables will you retain? How are the selected variables distributed?
 
 * Pay particular attention to the graphic visualization of your results.
+
+<!---
+2nd Step: choice of classification model, hyperparameters tuning
+======
+
+* Preparation of training dataset for cross-validation (choice of number of folds, split).
+
+* Several models can be adapted to the task at hand: linear regression, logistic regression, SVM, random forests, xgboost...
+    * Initialize the models
+    * Test them separately (k-fold cross-validation)
+    * Tune their hyperparameters
+
+* Compare the performance of the different models tested (each with its final choice of hyperparameters).
+
+* Which model/parameters did you choose?
+
+* Could a voting strategy improve predictions?
+
+* With the final model chosen, predict the labels of the test dataset.
+
+* Pay particular attention to the graphical visualization of your results.
+-->
 
 <!---
 -->
