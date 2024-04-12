@@ -52,13 +52,13 @@ Data (training and test sets)
 
 * Pay particular attention to the graphic visualization of your results.
 
-<!---
+
 2nd Step: choice of classification model, hyperparameters tuning
 ======
 
 * Preparation of training dataset for cross-validation (choice of number of folds, split).
 
-* Several models can be adapted to the task at hand: linear regression, logistic regression, SVM, random forests, xgboost...
+* Several models can be adapted to the task at hand: logistic regression, SVM, random forests, xgboost,...
     * Initialize the models
     * Test them separately (k-fold cross-validation)
     * Tune their hyperparameters
@@ -69,9 +69,12 @@ Data (training and test sets)
 
 * Could a voting strategy improve predictions?
 
-* With the final model chosen, predict the labels of the test dataset.
+* With the final model chosen, predict the labels of the test dataset (to be saved on a .csv and sent with the notebook).
 
 * Pay particular attention to the graphical visualization of your results.
+
+<!---
+[Paper](http://ibalelli.github.io/files/course_material/mod_stat_BUT/BMC_Medi_Res_Meth_19.pdf) <br/>
 -->
 
 <!---
