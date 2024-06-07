@@ -73,9 +73,44 @@ Data (training and test sets)
 
 * Pay particular attention to the graphical visualization of your results.
 
-<!---
-[Paper](http://ibalelli.github.io/files/course_material/mod_stat_BUT/BMC_Medi_Res_Meth_19.pdf) <br/>
--->
+3rd Step: handling missing data
+======
+
+* Here below, you can download the complete training and testing data (the ground truth for evaluating the imputation methods). Note that this time the datasets include all features' names. 
+
+[Data G1 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G1_complete.zip) <br/>
+[Data G2 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G2_complete.zip) <br/>
+[Data G3 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G3_complete.zip) <br/>
+[Data G4 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G4_complete.zip) <br/>
+[Data G5 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G5_complete.zip) <br/>
+[Data G6 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G6_complete.zip) <br/>
+
+* Check missing data patterns in data and data_test.
+
+* Several methods can be used to impute these data (take a look at the [sklearn.impute](https://scikit-learn.org/stable/api/sklearn.impute.html) package): test them and evaluate their ability to impute your missing data (using cross-validation).
+
+* Apply the classification models tested in the previous step to the full (imputed) dataset: do you observe any performance improvement?
+
+* Could multiple imputation methods provide better classification results?
+
+* Pay particular attention to the graphical visualization of your results.
+
+Interpretation and written report
+======
+
+[Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template) <br/>
+
+* The data you've handled so far has been extracted from the [Breast Cancer Wisconsin dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset), which contains 30 features calculated from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe the characteristics of the cell nuclei present in the image and are used to predict whether the tumor mass is benign (0) or malignant (1).
+
+* We have artificially introduced missing data, which is frequent in the clinic, where errors can occur at various points in the data acquisition or transcription phases.
+
+* The analysis you have carried out could answer a very simple but relevant clinical question: could you propose a tool to help classify a new patient's tumor mass from measurements (possibly partly missing) extracted from a FNA?
+
+* Use this information to guide the writing of your report and work out your presentation. 
+
+* Of note, this dataset has been widely explored, and you can find articles and several projects on Kaggle that use it.
 
 <!---
+Notes
+======
 -->
