@@ -98,7 +98,7 @@ Data (training and test sets)
 Interpretation and written report
 ======
 
-[Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template) <br/>
+[Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template.docx) <br/>
 
 * The data you've handled so far has been extracted from the [Breast Cancer Wisconsin dataset](https://scikit-learn.org/stable/datasets/toy_dataset.html#breast-cancer-dataset), which contains 30 features calculated from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe the characteristics of the cell nuclei present in the image and are used to predict whether the tumor mass is benign (0) or malignant (1).
 
