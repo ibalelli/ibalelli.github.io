@@ -87,7 +87,7 @@ Data (training and test sets)
 
 * Check missing data patterns in data and data_test.
 
-* Several methods can be used to impute these data (take a look at the [sklearn.impute](https://scikit-learn.org/stable/api/sklearn.impute.html) package): test them and evaluate their ability to impute your missing data (using cross-validation).
+* Several methods can be used to impute these data (take a look at the [sklearn.impute](https://scikit-learn.org/stable/api/sklearn.impute.html) package; a method based on random forests is implented [her](https://pypi.org/project/MissForest/)): test them and evaluate their ability to impute your missing data (using cross-validation).
 
 * Apply the classification models tested in the previous step to the full (imputed) dataset: do you observe any performance improvement?
 
