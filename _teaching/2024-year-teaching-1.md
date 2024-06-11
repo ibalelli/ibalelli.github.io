@@ -91,7 +91,7 @@ Data (training and test sets)
 
 * Apply the classification models tested in the previous step to the full (imputed) dataset: do you observe any performance improvement?
 
-* Could multiple imputation methods provide better classification results?
+* Could *multiple imputation* methods provide better classification results?
 
 * Pay particular attention to the graphical visualization of your results.
 
