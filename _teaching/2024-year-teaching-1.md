@@ -110,6 +110,11 @@ Interpretation and written report
 
 * Of note, this dataset has been widely explored, and you can find articles and several projects on Kaggle that use it.
 
+Final grades
+======
+
+[Notes](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_BD.pdf) <br/>
+
 <!---
 Notes
 ======
