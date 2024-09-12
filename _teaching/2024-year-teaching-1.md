@@ -23,6 +23,7 @@ Cours description
 * *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 13/06 (at the end of the session).
 * *Oral exam (2/5):* 17/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
 
+<!---
 Groups (Randomly defined)
 ======
 * *G1* CROMBET, NIASSY
@@ -115,7 +116,4 @@ Final grades
 
 [Notes](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_BD.pdf) <br/>
 
-<!---
-Notes
-======
 -->
