@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-\justify{I am a research scientist (ISFP - Inria Starting Faculty Position) at [Centre INRIA d'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee). I am a member of the [EPIONE](https://team.inria.fr/epione/fr/) team (e-patient for e-medicine). I am interested in developing mathematical and statistical models for computational biomedicine. Current research interests include Bayesian learning, generative modeling, causal learning and in-silico trials.}
+I am a research scientist (ISFP - Inria Starting Faculty Position) at [Centre INRIA d'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee). I am a member of the [EPIONE](https://team.inria.fr/epione/fr/) team (e-patient for e-medicine). I am interested in developing mathematical and statistical models for computational biomedicine. Current research interests include Bayesian learning, generative modeling, causal learning and in-silico trials.
 
 Ongoing projects
 ======
