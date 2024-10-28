@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist (ISFP - Inria Starting Faculty Position) at [Centre INRIA d'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee). I am a member of the [EPIONE](https://team.inria.fr/epione/fr/) team (e-patient for e-medicine). I am interested in developing mathematical and statistical models for computational biomedicine. Current research interests include Bayesian learning, mechanistic modeling, population dynamics, in-silico trials and causal learning.
+I am a research scientist (ISFP - Inria Starting Faculty Position) at [Centre INRIA d'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee). I am a member of the [EPIONE](https://team.inria.fr/epione/fr/) team (e-patient for e-medicine). I am interested in developing mathematical and statistical models for computational biomedicine. Current research interests include Bayesian learning, generative modeling, causal learning and in-silico trials.
 
 Ongoing projects
 ======
 I am currently involved in the following projects:
-- [SimCardioTest](https://www.simcardiotest.eu/wordpress/): leading the workpackage dedicated to in-silico trials and data science
+- [TALENT](https://www.ihu-liryc.fr/en/the-talent-project-laureate-of-the-rhu-program/): Multimodal risk prediction model
+- [SimCardioTest](https://www.simcardiotest.eu/wordpress/): In-silico trials and data science
 - [Fed-BioMed](https://fedbiomed.gitlabpages.inria.fr/): contributing to the development of an open-source federated learning framework
 
 Students
@@ -23,7 +24,8 @@ Students
 
 Open positions
 ======
-No ongoing open positions
+- M2 internship positions : open soon
+- PhD position : open soon
 
 <!--
 - Master 2 internship on [Identification and quantification of explanatory variables effects on latent NODE-based trajectories](http://ibalelli.github.io/files/job_offers/Internship_proposal_Deep_Mixed_Effect.pdf).
