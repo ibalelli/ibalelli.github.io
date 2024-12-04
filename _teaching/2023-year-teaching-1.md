@@ -14,6 +14,7 @@ Lectures and tutorials sessions on non parametric statistics, for 3rd year BUT s
 Lesson 1
 ======
 [TP1_Histogramme_partie1.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP1_Histogramme_partie1.ipynb) <br/>
+
 <!---
 [Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_1_Histogrammes.pdf) <br/>
 
