@@ -19,9 +19,9 @@ Lesson 1
 Lesson 2
 ======
 [TP1_Histogramme_partie2.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP1_Histogramme_partie2.ipynb) <br/>
+[TP2_Noyau_partie1.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP2_Noyau_partie1.ipynb) <br/>
 
 <!---
-[TP2_Noyau_partie1.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP2_Noyau_partie1.ipynb) <br/>
 [Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_2_Noyaux_partie1.pdf) <br/>
 
 Lesson 3
