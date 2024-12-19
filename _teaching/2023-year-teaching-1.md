@@ -25,10 +25,9 @@ Lesson 2
 Lesson 3
 ======
 [TP2_Noyau_partie2.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP2_Noyau_partie2.ipynb) <br/>
+[Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_3.pdf) <br/>
 
 <!---
-[Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_3_Noyaux_partie2.pdf) <br/>
-
 Exam 1
 ======
 [Correction](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_1_corr.ipynb) <br/>
