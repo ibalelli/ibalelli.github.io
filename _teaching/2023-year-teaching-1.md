@@ -37,10 +37,9 @@ Lesson 4
 ======
 [TP3_KNN.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP3_KNN.ipynb) <br/>
 [TP4_Regression_partie1.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP4_Regression_partie1.ipynb) <br/>
+[Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_4.pdf) <br/>
 
 <!---
-[Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_4_KNN.pdf) <br/>
-
 Lesson 5
 ======
 [Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_5_Regression.pdf) <br/>
