@@ -39,14 +39,14 @@ Lesson 4
 [TP4_Regression_partie1.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP4_Regression_partie1.ipynb) <br/>
 [Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_4.pdf) <br/>
 
+Lesson 5
+======
+[TP4_Regression_partie2.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP4_Regression_partie2.ipynb) <br/>
+
 <!---
 Lesson 5
 ======
 [Slides](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Cours_5_Regression.pdf) <br/>
-
-Lesson 6
-======
-[TP4_Regression_partie2.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP4_Regression_partie2.ipynb) <br/>
 
 Exam 2
 ======
