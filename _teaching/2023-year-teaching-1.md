@@ -47,9 +47,10 @@ Lesson 5
 Exam 2
 ======
 [Notebook](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_2.ipynb) <br/>
-
-
-<!---
 [Correction](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_2_corr.ipynb) <br/>
 [Notes](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_2.pdf) <br/>
+
+[Notes finales](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_fin.pdf) <br/>
+
+<!---
 -->
