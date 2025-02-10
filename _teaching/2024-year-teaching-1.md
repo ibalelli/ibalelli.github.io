@@ -20,18 +20,13 @@ Cours description
 
 **Evaluation:**
 * *Continuous assessment (1/5):* Work progress.
-* *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 13/06 (at the end of the session).
-* *Oral exam (2/5):* 17/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
+* *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 30/05.
+* *Oral exam (2/5):* 10/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
 
 <!---
 Groups (Randomly defined)
 ======
-* *G1* CROMBET, NIASSY
-* *G2* FALAIS, EZ-ZEROUALI
-* *G3* VIAUD, CARTON
-* *G4* VIGLIETTI, HIRSINGER
-* *G5* GOURAR, DIALLO
-* *G6* JOUNDI, LOFTI, NOUIRA
+* *G1* 
 
 Data (training and test sets)
 ======
@@ -41,6 +36,8 @@ Data (training and test sets)
 [Data G4 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G4.zip) <br/>
 [Data G5 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G5.zip) <br/>
 [Data G6 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G6.zip) <br/>
+
+[Original paper](http://ibalelli.github.io/files/course_material/mod_stat_BUT/paper.pdf) <br/>
 
 1st Step: data analysis and preparation
 ======
