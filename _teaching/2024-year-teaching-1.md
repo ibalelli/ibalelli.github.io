@@ -35,9 +35,9 @@ Data (training and test sets)
 * *G2* [Data G2 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G2.zip) <br/>
 * *G3* [Data G3 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G3.zip) <br/>
 * *G4* [Data G4 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G4.zip) <br/>
+* *G5* Frandon [Data G5 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G5.zip) <br/>
 
 <!---
-# [Data G5 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G5.zip) <br/>
 # [Data G6 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G6.zip) <br/>
 -->
 
