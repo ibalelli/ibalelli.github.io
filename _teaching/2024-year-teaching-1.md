@@ -54,7 +54,6 @@ Data (training and test sets)
 
 * Pay particular attention to the graphic visualization of your results.
 
-<!---
 2nd Step: choice of classification model, hyperparameters tuning
 ======
 
@@ -69,12 +68,13 @@ Data (training and test sets)
 
 * Which model/parameters did you choose?
 
-* Could a voting strategy improve predictions?
+* Could a voting strategy improve predictions? Test it.
 
-* With the final model chosen, predict the labels of the test dataset (to be saved on a .csv and sent with the notebook).
+* With the final model chosen, predict the labels of the test dataset.
 
 * Pay particular attention to the graphical visualization of your results.
 
+<!---
 3rd Step: handling missing data
 ======
 
