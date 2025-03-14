@@ -19,12 +19,14 @@ I am currently involved in the following projects:
 
 Students
 ======
-- [Wassila Khatir](https://www.linkedin.com/in/wassila-khatir-553b291b3/?originalSubdomain=fr), Ph.D. (since Feb. 2024): Integromics analysis: a new angle on the pathophysiology of X-Fragile Syndrome (Inria-IPMC collaboration)
 - [Safaa Al Ali](https://www.linkedin.com/in/safaa-al-ali-b0595262/?originalSubdomain=fr), Post Doc (since Oct. 2022): Causal data analysis of in-silico trials, within the SimCardioTest project
+- [Wassila Khatir](https://www.linkedin.com/in/wassila-khatir-553b291b3/?originalSubdomain=fr), Ph.D. (since Feb. 2024): Integromics analysis: a new angle on the pathophysiology of X-Fragile Syndrome (Inria-IPMC collaboration)
+- Arnaud Lang, M2 internship (since Apr. 2025): A voting strategy for causal discovery
+- Ishfaaq Illahibuccus-Sona, M2 research project (since Nov. 2024): Semi-supervised learning.
+- Habeeb Hammed, M2 research project (since Nov. 2024): Causal inference.
 
 Open positions
 ======
-- M2 internship positions : open soon
 - PhD position : open soon
 
 <!--
