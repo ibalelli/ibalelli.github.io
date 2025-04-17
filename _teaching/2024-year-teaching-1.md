@@ -29,8 +29,10 @@ Groups (Randomly defined)
 * *G1* 
 -->
 
-Data (training and test sets)
+1st project: binary classification
 ======
+
+**Data (training and test sets)**
 * *G1* Hadjadj-Tognaccioli [Data G1 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G1.zip) <br/>
 * *G2* Billon-Minot [Data G2 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G2.zip) <br/>
 * *G3* Camara-Trochon [Data G3 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G3.zip) <br/>
@@ -43,8 +45,7 @@ Data (training and test sets)
 
 [Original paper](http://ibalelli.github.io/files/course_material/mod_stat_BUT/paper.pdf) <br/>
 
-1st Step: data analysis and preparation
-======
+**1st Step: data analysis and preparation**
 
 * Dataset size and type. Are there any missing data? If so, we will eliminate them (for now).
 
@@ -54,8 +55,7 @@ Data (training and test sets)
 
 * Pay particular attention to the graphic visualization of your results.
 
-2nd Step: choice of classification model, hyperparameters tuning
-======
+**2nd Step: choice of classification model, hyperparameters tuning**
 
 * Preparation of training dataset for cross-validation (choice of number of folds, split).
 
@@ -71,6 +71,31 @@ Data (training and test sets)
 * Could a voting strategy improve predictions? Test it.
 
 * With the final model chosen, predict the labels of the test dataset.
+
+* Pay particular attention to the graphical visualization of your results.
+
+2ndst project: multiclass classification
+======
+
+**Data**
+
+* Download the brain dataset (5 classes - Brain_GSE50161.csv) from [CuMiDa](https://sbcb.inf.ufrgs.br/cumida)
+
+* The original paper describing the CuMiDa project is available [here](https://www.liebertpub.com/doi/full/10.1089/cmb.2018.0238)
+
+**Steps**
+
+* Preprocess your data using MinMax
+
+* Split the dataset in a train and test sets, accounting for stratification.
+
+* The dataset appear to be unbalanced: a common strategy to cope with this consists in balancing classes through oversampling of the minority classes during training. For instance you can use [SMOTE - Synthetic Minority Over-sampling Technique](https://www.jair.org/index.php/jair/article/view/10302/24590). An implementation of widely used oversampling methods is available in [imbalanced-learn](https://imbalanced-learn.org/stable/references/over_sampling.html).
+
+* Perform feature selection/dimensionality reduction.
+
+* Repeat the steps followed for the first project to propose an optimized classificator (additional classification strategies can be tested).
+
+* Consider the use of cross validation to optimize the hyperparameters and conclude about the stability of the results.
 
 * Pay particular attention to the graphical visualization of your results.
 
