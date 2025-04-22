@@ -74,7 +74,7 @@ Groups (Randomly defined)
 
 * Pay particular attention to the graphical visualization of your results.
 
-2ndst project: multiclass classification
+2nd project: multiclass classification
 ======
 
 **Data**
@@ -89,13 +89,15 @@ Groups (Randomly defined)
 
 * Split the dataset in a train and test sets, accounting for stratification.
 
-* The dataset appear to be unbalanced: a common strategy to cope with this consists in balancing classes through oversampling of the minority classes during training. For instance you can use [SMOTE - Synthetic Minority Over-sampling Technique](https://www.jair.org/index.php/jair/article/view/10302/24590). An implementation of widely used oversampling methods is available in [imbalanced-learn](https://imbalanced-learn.org/stable/references/over_sampling.html).
+* The dataset appears to be unbalanced: a common strategy to cope with this consists in balancing classes through oversampling of the minority classes during training. For instance you can use [SMOTE - Synthetic Minority Over-sampling Technique](https://www.jair.org/index.php/jair/article/view/10302/24590). An implementation of widely used oversampling methods is available in [imbalanced-learn](https://imbalanced-learn.org/stable/references/over_sampling.html).
 
-* Perform feature selection/dimensionality reduction.
+* Perform feature selection/dimensionality reduction: how many features/dimensions should be kept?
 
 * Repeat the steps followed for the first project to propose an optimized classificator (additional classification strategies can be tested).
 
-* Consider the use of cross validation to optimize the hyperparameters and conclude about the stability of the results.
+* Use of cross validation to optimize the hyperparameters and conclude about the stability of the results.
+
+* Perfor a final test on the test dataset.
 
 * Pay particular attention to the graphical visualization of your results.
 
