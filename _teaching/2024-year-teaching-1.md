@@ -101,6 +101,24 @@ Groups (Randomly defined)
 
 * Pay particular attention to the graphical visualization of your results.
 
+
+3rd Project: working with missing data
+======
+
+* Consider the dataset used for the 2nd project.
+
+* Preprocess your data and perform feature selection/dimensionality reduction (using the pipeline defined previously).
+
+* Generate different percentages of missing data (e.g. 20%, 40%, 60%), either MCAR or MNAR (censoring).
+
+* Several methods can be used to impute missing data: for istance using the mean/median/... ([SimpleImputer](https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html#sklearn.impute.SimpleImputer)), using a knn strategy ([KNNImputer](https://scikit-learn.org/stable/modules/generated/sklearn.impute.KNNImputer.html#sklearn.impute.KNNImputer)) or through multivariate imputation by chained equations (MICE-[IterativeImputer](https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html#sklearn.impute.IterativeImputer)). Try and compare them in terms of their ability in reconstruction. How much the distribution of the imputed dataset is affected by the chosen imputation strategy and depending on the amount of missingness?
+
+* Consider the classification task in presence of missing data in a 2 steps approach: 1) imputation, 2) classification. Compare the classification performances as a function of the amount of missing data in the original set and the choice of the imputation strategy.
+
+* Use k-fold cross validation.
+
+* Pay particular attention to the graphical visualization of your results.
+
 <!---
 3rd Step: handling missing data
 ======
