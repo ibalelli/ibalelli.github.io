@@ -20,7 +20,7 @@ Cours description
 
 **Evaluation:**
 * *Continuous assessment (1/5):* Work progress.
-* *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 30/05.
+* *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 30/05. ([Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template.docx))
 * *Oral exam (2/5):* 10/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
 
 <!---
