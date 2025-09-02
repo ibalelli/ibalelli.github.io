@@ -10,6 +10,9 @@ location: "Sophia Antipolis, France"
 
 Project on statistical modeling for complex data and big data, for 3rd year BUT students.
 
+Details to follow.
+
+<!---
 Cours description
 ======
 **Objective:** Statistical modeling based on a given dataset, following all the steps required to understand its variables, process them and model them for a given objective. 
@@ -23,12 +26,6 @@ Cours description
 * *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 30/05. ([Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template.docx))
 * *Oral exam (2/5):* 10/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
 
-<!---
-Groups (Randomly defined)
-======
-* *G1* 
--->
-
 1st project: binary classification
 ======
 
@@ -38,11 +35,13 @@ Groups (Randomly defined)
 * *G3* Camara-Trochon [Data G3 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G3.zip) <br/>
 * *G4* Godin-Langlois [Data G4 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G4.zip) <br/>
 * *G5* Frandon [Data G5 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G5.zip) <br/>
+-->
 
 <!---
 # [Data G6 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G6.zip) <br/>
 -->
 
+<!---
 [Original paper](http://ibalelli.github.io/files/course_material/mod_stat_BUT/paper.pdf) <br/>
 
 **1st Step: data analysis and preparation**
@@ -118,6 +117,7 @@ Groups (Randomly defined)
 * Use k-fold cross validation.
 
 * Pay particular attention to the graphical visualization of your results.
+-->
 
 <!---
 3rd Step: handling missing data
