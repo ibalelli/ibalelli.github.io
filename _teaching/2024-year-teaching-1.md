@@ -4,7 +4,7 @@ collection: teaching
 type: "3rd year Bachelors degree course"
 permalink: /teaching/2024-year-teaching-1
 venue: "IUT Nice Côte d’Azur, BUT Science des Donne, S6"
-date: 2024-04-01
+date: 2026-04-01
 location: "Sophia Antipolis, France"
 ---
 
