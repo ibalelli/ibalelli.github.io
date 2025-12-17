@@ -19,7 +19,7 @@ Students
 ======
 - [Wassila Khatir](https://www.linkedin.com/in/wassila-khatir-553b291b3/?originalSubdomain=fr), Ph.D. (since Feb. 2024): Integromics analysis: a new angle on the pathophysiology of X-Fragile Syndrome (Inria-IPMC collaboration)
 - Arnaud Lang, Ph.D. (since Dic. 2025): Multimodal prediction for Cardioembolic stroke: etiology and risk. (Former M2 internship project: A voting strategy for causal discovery)
-- Amel Bakhouche, Ph.D. (since Feb. 2025): Analysis of European National Health data and vascular registries to better understand the
+- [Amel Bakhouche](https://www.linkedin.com/in/amel-bakhouche-6723b0202/?originalSubdomain=fr), Ph.D. (since Feb. 2025): Analysis of European National Health data and vascular registries to better understand the
 outcomes of patients with vascular diseases (collaboration between Inria and University Hospital Center - CHU - of Nice)
 
 Open positions
