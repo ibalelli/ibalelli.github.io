@@ -14,20 +14,17 @@ Ongoing projects
 ======
 I am currently involved in the following projects:
 - [TALENT](https://www.ihu-liryc.fr/en/the-talent-project-laureate-of-the-rhu-program/): Multimodal risk prediction model
-- [SimCardioTest](https://www.simcardiotest.eu/wordpress/): In-silico trials and data science
-- [Fed-BioMed](https://fedbiomed.gitlabpages.inria.fr/): contributing to the development of an open-source federated learning framework
 
 Students
 ======
-- [Safaa Al Ali](https://www.linkedin.com/in/safaa-al-ali-b0595262/?originalSubdomain=fr), Post Doc (since Oct. 2022): Causal data analysis of in-silico trials, within the SimCardioTest project
 - [Wassila Khatir](https://www.linkedin.com/in/wassila-khatir-553b291b3/?originalSubdomain=fr), Ph.D. (since Feb. 2024): Integromics analysis: a new angle on the pathophysiology of X-Fragile Syndrome (Inria-IPMC collaboration)
-- Arnaud Lang, M2 internship (since Apr. 2025): A voting strategy for causal discovery
-- Ishfaaq Illahibuccus-Sona, M2 research project (since Nov. 2024): Semi-supervised learning.
-- Habeeb Hammed, M2 research project (since Nov. 2024): Causal inference.
+- Arnaud Lang, Ph.D. (since Dic. 2025): Multimodal prediction for Cardioembolic stroke: etiology and risk. (Former M2 internship project: A voting strategy for causal discovery)
+- Amel Bakhouche, Ph.D. (since Feb. 2025): Analysis of European National Health data and vascular registries to better understand the
+outcomes of patients with vascular diseases (collaboration between Inria and University Hospital Center - CHU - of Nice)
 
 Open positions
 ======
-- PhD position : open soon
+- Internship position : open soon
 
 <!--
 - Master 2 internship on [Identification and quantification of explanatory variables effects on latent NODE-based trajectories](http://ibalelli.github.io/files/job_offers/Internship_proposal_Deep_Mixed_Effect.pdf).
@@ -46,9 +43,14 @@ In February 2020 I have finally joined the [EPIONE](https://team.inria.fr/epione
 Previous projects
 ======
 I have actively participated to the following project:
+- [SimCardioTest](https://www.simcardiotest.eu/wordpress/): WP leader - In-silico trials and data science
+- [Fed-BioMed](https://fedbiomed.gitlabpages.inria.fr/): contributing to the development of an open-source federated learning framework
 - [Ebovac](https://www.ebovac.org/): involved in the workpackages dedicated to within-host mechanistic modeling
 
 Former students
 ======
+- [Safaa Al Ali](https://www.linkedin.com/in/safaa-al-ali-b0595262/?originalSubdomain=fr), Post Doc (since Oct. 2022): Causal data analysis of in-silico trials, within the SimCardioTest project
+- Ishfaaq Illahibuccus-Sona, M2 research project (since Nov. 2024): Semi-supervised learning.
+- Habeeb Hammed, M2 research project (since Nov. 2024): Causal inference.
 - [Bhargav Ramudu Manam](https://www.linkedin.com/in/bhargavmanam/?originalSubdomain=fr), M2 internship (Apr. 2023 - Sept. 2023): Identification and quantification of explanatory variables effects on latent NODE-based trajectories
 - [Andrea Senacheribbe](https://www.linkedin.com/in/andrea-senacheribbe/?originalSubdomain=it), M2 internship (Sept. 2020 - Feb. 2021): Extension of multi-views PCA to time series data 
