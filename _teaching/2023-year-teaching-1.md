@@ -40,7 +40,10 @@ Lesson 4
 Exam 1
 ======
 [Correction](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_corr.ipynb) <br/>
-[Notes](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_1.pdf) <br/>
+
+
+<!-- [Notes](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_1.pdf) <br/> -->
+
 
 Lesson 4
 ======
