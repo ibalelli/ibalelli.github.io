@@ -10,25 +10,28 @@ location: "Sophia Antipolis, France"
 
 Project on statistical modeling for complex data and big data, for 3rd year BUT students.
 
-Details to follow.
-
 <!---
+Details to follow.
+-->
+
 Cours description
 ======
 **Objective:** Statistical modeling based on a given dataset, following all the steps required to understand its variables, process them and model them for a given objective. 
 
 **Method:** 
-* Individual work, in groups of 2 or 3 students (chosen at random), using Python.
+* Individual work, in small groups (max. 3 students), using Python.
 * Objectives will be progressively set, every 2 sessions each group will have to provide the progress of their work (in the form of a notebook).
 
 **Evaluation:**
-* *Continuous assessment (1/5):* Work progress.
-* *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 30/05. ([Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template.docx))
-* *Oral exam (2/5):* 10/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + 15-minute Q&A.
+* *Continuous assessment (1/5):* Work progress - 1 notebook/project (Due on 05/03; 30/04; 05/05 respectively).
+* *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 30/05.
+<!---([Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template.docx))-->
+* *Oral exam (2/5):* 10/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + Q&A.
 
 1st project: binary classification
 ======
 
+<!---
 **Data (training and test sets)**
 * *G1* Hadjadj-Tognaccioli [Data G1 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G1.zip) <br/>
 * *G2* Billon-Minot [Data G2 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G2.zip) <br/>
@@ -41,37 +44,40 @@ Cours description
 # [Data G6 (.zip)](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Data_G6.zip) <br/>
 -->
 
-<!---
+* Download the breast cancer dataset using `load_breast_cancer` from `sklearn.datasets`.
+
 [Original paper](http://ibalelli.github.io/files/course_material/mod_stat_BUT/paper.pdf) <br/>
 
 **1st Step: data analysis and preparation**
 
-* Dataset size and type. Are there any missing data? If so, we will eliminate them (for now).
+* Dataset size and type. Are there any missing data?
 
-* How many classes and elements/class?
+* Is the dataset well-balanced?
 
-* Selection of the most significant variables: explore and suggest several methods. Are there any collinearities? Which variables will you retain? How are the selected variables distributed?
+* Split the dataset in train-test (80%-20%), accounting for stratification.
 
-* Pay particular attention to the graphic visualization of your results.
+* Select the most significant variables: explore and suggest several methods. Are there any collinearities? Which variables will you retain? How are the selected variables distributed? With respect to the label?
 
 **2nd Step: choice of classification model, hyperparameters tuning**
 
-* Preparation of training dataset for cross-validation (choice of number of folds, split).
+* Preparation of training dataset for cross-validation (choice of number of folds).
 
 * Several models can be adapted to the task at hand: logistic regression, SVM, random forests, xgboost,...
     * Initialize the models
     * Test them separately (k-fold cross-validation)
-    * Tune their hyperparameters
+    * Optimize their hyperparameters
 
 * Compare the performance of the different models tested (each with its final choice of hyperparameters).
 
 * Which model/parameters did you choose?
 
-* Could a voting strategy improve predictions? Test it.
+* Could a voting strategy improve predictions? Implement and test it.
 
 * With the final model chosen, predict the labels of the test dataset.
 
-* Pay particular attention to the graphical visualization of your results.
+***Pay particular attention to the graphical visualization of your results at each step.***
+
+<!---
 
 2nd project: multiclass classification
 ======
@@ -84,9 +90,9 @@ Cours description
 
 **Steps**
 
-* Preprocess your data using MinMax
-
 * Split the dataset in a train and test sets, accounting for stratification.
+
+* Preprocess your data using MinMax
 
 * The dataset appears to be unbalanced: a common strategy to cope with this consists in balancing classes through oversampling of the minority classes during training. For instance you can use [SMOTE - Synthetic Minority Over-sampling Technique](https://www.jair.org/index.php/jair/article/view/10302/24590). An implementation of widely used oversampling methods is available in [imbalanced-learn](https://imbalanced-learn.org/stable/references/over_sampling.html).
 
