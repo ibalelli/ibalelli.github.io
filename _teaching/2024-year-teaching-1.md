@@ -77,8 +77,6 @@ Cours description
 
 ***Pay particular attention to the graphical visualization of your results at each step.***
 
-<!---
-
 2nd project: multiclass classification
 ======
 
@@ -88,25 +86,27 @@ Cours description
 
 * The original paper describing the CuMiDa project is available [here](https://www.liebertpub.com/doi/full/10.1089/cmb.2018.0238)
 
+* [Methodology of Microarray Data Analysis](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Methodology_microarray.pdf) paper
+
 **Steps**
 
 * Split the dataset in a train and test sets, accounting for stratification.
 
 * Preprocess your data using MinMax
 
-* The dataset appears to be unbalanced: a common strategy to cope with this consists in balancing classes through oversampling of the minority classes during training. For instance you can use [SMOTE - Synthetic Minority Over-sampling Technique](https://www.jair.org/index.php/jair/article/view/10302/24590). An implementation of widely used oversampling methods is available in [imbalanced-learn](https://imbalanced-learn.org/stable/references/over_sampling.html).
+* The dataset appears to be strongly unbalanced: a common strategy to cope with this consists in balancing classes through oversampling of the minority classes during training. For instance you can use [SMOTE - Synthetic Minority Over-sampling Technique](https://www.jair.org/index.php/jair/article/view/10302/24590). An implementation of widely used oversampling methods is available in [imbalanced-learn](https://imbalanced-learn.org/stable/references/over_sampling.html).
 
 * Perform feature selection/dimensionality reduction: how many features/dimensions should be kept?
 
-* Repeat the steps followed for the first project to propose an optimized classificator (additional classification strategies can be tested).
+* Repeat the steps followed for the first project to propose an optimized classificator.
 
 * Use of cross validation to optimize the hyperparameters and conclude about the stability of the results.
 
-* Perfor a final test on the test dataset.
+* Perform a final test on the test dataset.
 
-* Pay particular attention to the graphical visualization of your results.
+***Pay particular attention to the graphical visualization of your results at each step.***
 
-
+<!---
 3rd Project: working with missing data
 ======
 
