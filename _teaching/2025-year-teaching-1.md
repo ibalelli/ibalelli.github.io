@@ -11,3 +11,12 @@ location: "Sophia Antipolis, France"
 Lectures and tutorials sessions on causal learning (discovery and inference), with applications to healthcare.
 
 Details to follow.
+
+<!---
+Lesson 1
+======
+[Causal Graphical Models](http://ibalelli.github.io/files/course_material/causal_learning/Slides_1_a.pdf) <br/>
+[TD1](http://ibalelli.github.io/files/course_material/causal_learning/TD_1.pdf) <br/>
+
+[Causal Discovery](http://ibalelli.github.io/files/course_material/causal_learning/Slides_1_b.pdf)
+-->
