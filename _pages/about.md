@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist (ISFP - Inria Starting Faculty Position) at [Centre INRIA d'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee). I am a member of the [EPIONE](https://team.inria.fr/epione/fr/) team (e-patient for e-medicine). I am interested in developing mathematical and statistical models for computational biomedicine. Current research interests include Bayesian learning, generative modeling, causal learning and in-silico trials.
+I am a research scientist (ISFP - Inria Starting Faculty Position) at [Centre INRIA d'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee). I am a member of the [EPIONE](https://team.inria.fr/epione/fr/) team (e-patient for e-medicine). I am interested in developing mathematical and statistical models for computational biomedicine. Current research interests include causal learning, Bayesian learning, generative modeling and in-silico trials.
 
 Ongoing projects
 ======
 I am currently involved in the following projects:
 - [TALENT](https://www.ihu-liryc.fr/en/the-talent-project-laureate-of-the-rhu-program/): Multimodal risk prediction model
+- CausalGene: Glucocorticoid effects on human airway cells through population of causal graphs. Funded by [CHAI](https://www.chai.ac.uk)
 
 Students
 ======
@@ -24,7 +25,7 @@ outcomes of patients with vascular diseases (collaboration between Inria and Uni
 
 Open positions
 ======
-- Internship position : open soon
+- Internship position: open soon
 
 <!--
 - Master 2 internship on [Identification and quantification of explanatory variables effects on latent NODE-based trajectories](http://ibalelli.github.io/files/job_offers/Internship_proposal_Deep_Mixed_Effect.pdf).
