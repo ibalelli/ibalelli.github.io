@@ -19,4 +19,9 @@ Lesson 1
 [Causal Discovery](http://ibalelli.github.io/files/course_material/causal_learning/Slides_1_b.pdf)
 
 <!---
+Lesson 2
+======
+[TD1](http://ibalelli.github.io/files/course_material/causal_learning/TD_2.pdf) <br/>
+[Pearl](http://ibalelli.github.io/files/course_material/causal_learning/Slides_2_a.pdf) <br/>
+[Rubin and Neyman](http://ibalelli.github.io/files/course_material/causal_learning/Slides_2_b.pdf)
 -->
