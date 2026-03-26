@@ -24,5 +24,9 @@ Lesson 2
 [Pearl](http://ibalelli.github.io/files/course_material/causal_learning/Slides_2_a.pdf) <br/>
 [Rubin and Neyman](http://ibalelli.github.io/files/course_material/causal_learning/Slides_2_b.pdf)
 
+Lesson 3
+======
+[Full example](http://ibalelli.github.io/files/course_material/causal_learning/Full_Example.ipynb) <br/>
+
 <!---
 -->
