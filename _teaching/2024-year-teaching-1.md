@@ -25,8 +25,9 @@ Cours description
 **Evaluation:**
 * *Continuous assessment (1/5):* Work progress - 1 notebook/project (Due on 05/03; 30/04; 05/05 respectively).
 * *Written report (2/5):* A written report (clean) in which all the results obtained are brought together, commented on and put into perspective. Due on 30/05.
-<!---([Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template.docx))-->
 * *Oral exam (2/5):* 10/06 from 8am. Each group will present its work in the form of a talk (with support). 15-minute presentation + Q&A.
+
+[Template](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Report_template.docx)
 
 1st project: binary classification
 ======
