@@ -107,7 +107,6 @@ Cours description
 
 ***Pay particular attention to the graphical visualization of your results at each step.***
 
-<!---
 3rd Project: working with missing data
 ======
 
@@ -124,6 +123,9 @@ Cours description
 * Use k-fold cross validation.
 
 * Pay particular attention to the graphical visualization of your results.
+
+
+<!---
 -->
 
 <!---
