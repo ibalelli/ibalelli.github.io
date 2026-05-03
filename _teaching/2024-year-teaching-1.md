@@ -122,7 +122,7 @@ Cours description
 
 * Use k-fold cross validation.
 
-* Pay particular attention to the graphical visualization of your results.
+***Pay particular attention to the graphical visualization of your results at each step.***
 
 
 <!---
