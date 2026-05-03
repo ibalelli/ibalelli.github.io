@@ -10,6 +10,8 @@ redirect_from:
 
 I am a research scientist (ISFP - Inria Starting Faculty Position) at [Centre INRIA d'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee). I am a member of the [EPIONE](https://team.inria.fr/epione/fr/) team (e-patient for e-medicine). I am interested in developing mathematical and statistical models for computational biomedicine. Current research interests include causal learning, Bayesian learning, generative modeling and in-silico trials.
 
+I am the head of [Graph-Cure](https://team.inria.fr/graphcure/), an associate team between Inria UniCA and University College London, Statistical Science Department. The broad scope of Graph-Cure is the development of causal and graph-based modeling for AI-enhanced healthcare, with a focus on asthma.
+
 Ongoing projects
 ======
 I am currently involved in the following projects:
