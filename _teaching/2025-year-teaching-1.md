@@ -12,6 +12,7 @@ Lectures and tutorials sessions on causal learning (discovery and inference), wi
 
 Details to follow.
 
+<!---
 Lesson 1
 ======
 [TD1](http://ibalelli.github.io/files/course_material/causal_learning/TD_1.pdf) <br/>
@@ -28,5 +29,4 @@ Lesson 3
 ======
 [Full example](http://ibalelli.github.io/files/course_material/causal_learning/Full_Example.ipynb) <br/>
 
-<!---
 -->

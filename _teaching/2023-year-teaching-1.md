@@ -10,12 +10,9 @@ location: "Sophia Antipolis, France"
 
 Lectures and tutorials sessions on non parametric statistics, for 3rd year BUT students.
 
+Details to follow.
 
 <!---
-Details to follow.
--->
-
-
 Lesson 1
 ======
 [TP1_Histogramme_partie1.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP1_Histogramme_partie1.ipynb) <br/>
@@ -41,10 +38,6 @@ Exam 1
 ======
 [Correction](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_corr.ipynb) <br/>
 
-
-<!-- [Notes](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_1.pdf) <br/> -->
-
-
 Lesson 4
 ======
 [TP4_Regression_partie1.ipynb](http://ibalelli.github.io/files/course_material/mod_stat_BUT/TP4_Regression_partie1.ipynb) <br/>
@@ -60,7 +53,6 @@ Exam 2
 [Correction](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_2_corr.ipynb) <br/>
 
 
-<!---
 [Notebook](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Exam_2.ipynb) <br/>
 [Notes](http://ibalelli.github.io/files/course_material/mod_stat_BUT/Notes_2.pdf) <br/>
 
